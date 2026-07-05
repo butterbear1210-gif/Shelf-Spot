@@ -1,0 +1,113 @@
+@charset "utf-8";
+body {background-color: #D1BFA5}
+
+.banner img {
+    width: 100%;
+    height: 350px;
+}
+
+.banner-text {
+	font-family: 'Inter', sans-serif;
+    background-color: #3A2E20; 
+    color: #F7F4EF;            
+    padding: 20px;             
+    text-align: center;}
+
+.banner-text {margin: 5px 0 0 0;
+    font-style: italic;
+    font-size: 26px;}
+
+.gambar {width: 50%;      
+height: 50px;}
+
+
+
+.talk {
+	font-family: 'Montserrat', sans-serif;
+	font-size: 26px;
+    line-height: 1.6;
+    max-width: 800;
+	margin-bottom: 75px;
+}
+
+.aboutme {
+    width: 500px;
+    height: 500px;
+    object-fit: cover;
+    border-radius: 46px;
+    display: block;
+    margin-top: 7px;
+    margin-right: 0px;
+    margin-left: auto;
+    margin-bottom: 134px;
+	
+}
+
+.photo-label {
+    background-color: #E6A15C; 
+    border-radius: 25px;
+    padding: 8px 15px;         
+    text-align: center;
+    margin-bottom: 25px; 
+
+    
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 600;        
+    font-size: 22px;         
+    color: #3A2E20;
+}
+
+
+
+.mykecomelan {
+    background-color: #E6A15C;
+    color: #3A2E20;
+    text-align: center;
+    font-weight: 700;
+    padding: 6px 10px;
+    font-family: 'Poppins', sans-serif;   
+    font-size: 40px;
+	border-radius: 25px;}
+
+.caption {
+    font-family: 'Poppins', sans-serif;
+    font-size: 30px;
+    font-weight: 700;
+    color: #5C4033;
+    text-align: center;
+    margin: 45px 0 20px;
+    letter-spacing: 1px;
+}
+
+.sekeping { width:100%;
+    height:350px;
+    object-fit:cover;}
+
+.tips-list {font-family: 'Montserrat', sans-serif;
+	font-size: 26px;
+    line-height: 1.6;
+    max-width: 800;
+	margin-bottom: 85px;}
+
+.captiontepi{
+    font-family:'Poppins',sans-serif;
+    font-size:40px;
+    font-weight:700;
+    color:#6D7C43;
+    text-align:center;
+    margin:50px auto 25px auto;
+}
+
+.line{
+    width:180px;
+    border:2px solid #C89B63;
+    margin:0 auto 30px auto;
+}
+
+.gallery-img{
+    width:180px;
+    height:120px;
+    object-fit:cover;
+    display:block;
+    margin:auto;
+}
